@@ -19,10 +19,10 @@ var app = express();
 
 
 var APIKeys = {
-    appId           : '__insert_your_app_id__',
-    clientId        : '__insert_your_app_client_id__',
-    clientSecret    : '__insert_your_app_client_secret__',
-    appSignature    : '__insert_your_app_signature__',
+    appId           : 'ef97ead4-1dc5-47af-b108-480a9ae68e03',
+    clientId        : 'z7daay2ypaxad5afh7jyzuhe',
+    clientSecret    : '8jwG9JKZOMMVsBcndjlgNoj2',
+    appSignature    : '8910cb04-9b05-4134-8efe-526998cbbf34',
     authUrl         : 'https://auth.exacttargetapis.com/v1/requestToken?legacy=1'
 };
 
